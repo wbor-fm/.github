@@ -2,7 +2,7 @@
 
 # Hello!
 
-[WBOR](https://wbor.org) WBOR (91.1 FM) is the noncommercial, community public radio station licensed to Bowdoin College. This is the public repository for our technology operations. Please [contact us](https://wbor.org/contact) if you have any questions.
+[WBOR (91.1 FM)](https://wbor.org) is the noncommercial, community public radio station licensed to Bowdoin College. This is the public repository for our technology operations. Please [contact us](https://wbor.org/contact) if you have any questions.
 
 # Contributing
 We're delighted you want to help contribute to our online operations. We welcome folks at all levels of experience, whether you're a seasoned engineer or just starting out.
