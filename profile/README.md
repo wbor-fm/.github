@@ -11,4 +11,4 @@ If you'd like to make changes, please follow these steps:
 1. Clone the repo that you would like to make changes to your personal GitHub account.
 2. Make changes in your local repo.
 3. Create a pull request to the main WXYC repo. Someone will review your code and provide feedback if needed.
-4. Once your PR is approved, you're free to submit at merge your changes. Thanks for helping out!
+4. Once your PR is approved, you're free to merge your changes. Thanks for helping out!
