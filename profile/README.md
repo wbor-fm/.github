@@ -27,7 +27,11 @@ We aim for consistent, readable code across all WBOR projects.
 
 #### Module Docstrings
 
-Each Python module (file) should begin with a docstring. For a single author, this would include:
+Each Python module (file) should begin with a docstring. Keep them concise: a 2-3 sentence summary is enough to describe what the module does at high level. Module docstrings should focus on explaining the purpose of the module itself, not the internal workings of functions imported from other modules (avoid repeating detailed explanations that are already covered elsewhere). 
+
+If more detailed explanations are needed, put them in a separate documentation file or reference external docs.
+
+For a single author, a docstring might look like:
 
 ```python
 """
@@ -58,6 +62,7 @@ Last Modified: 2025-03-23
 Changelog:
     - 1.0.0 (2025-01-10): Initial version <@jdoe>
     - 1.0.1 (2025-03-22): Refactored API interface <@jdoe>
-    - 1.0.2 (2025-03-23): Add rate limitng <@jdoe, @johnd>
+    - 1.0.2 (2025-03-23): Add rate limiting and block certain user 
+        agents to reduce bot infiltration <@jdoe, @johnd>
 """
 ```
