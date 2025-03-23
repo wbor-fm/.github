@@ -34,8 +34,8 @@ Version: 1.0.1
 Last Modified: 2025-03-22
 
 Changelog:
-  - 1.0.0 (2025-01-10): Initial version
-  - 1.0.1 (2025-03-22): Refactored API interface
+    - 1.0.0 (2025-01-10): Initial version
+    - 1.0.1 (2025-03-22): Refactored API interface
 """
 ```
 
@@ -46,14 +46,14 @@ For multiple authors, create a list, and add authors to the changelog
 Module description here.
 
 Authors:
-  - Jane Doe <@jdoe>
-  - John Doe <@johnd>
+    - Jane Doe <@jdoe>
+    - John Doe <@johnd>
 Version: 1.0.2
 Last Modified: 2025-03-23
 
 Changelog:
-  - 1.0.0 (2025-01-10): Initial version <@jdoe>
-  - 1.0.1 (2025-03-22): Refactored API interface <@jdoe>
-  - 1.0.2 (2025-03-23): Add rate limitng <@jdoe, @johnd>
+    - 1.0.0 (2025-01-10): Initial version <@jdoe>
+    - 1.0.1 (2025-03-22): Refactored API interface <@jdoe>
+    - 1.0.2 (2025-03-23): Add rate limitng <@jdoe, @johnd>
 """
 ```
