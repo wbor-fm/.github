@@ -4,7 +4,7 @@
 
 ## APIs
 
-Using [our Spinitron proxy](https://github.com/WBOR-91-1-FM/spinitron-proxy), you may fetch WBOR [Spinitron API data](https://spinitron.github.io/v2api/) at `https://api-1.wbor.org/api` (example for [spins](https://api-1.wbor.org/api/spins)).
+Using [our Spinitron proxy](https://github.com/WBOR-91-1-FM/spinitron-proxy), you may fetch WBOR [Spinitron API data](https://spinitron.github.io/v2api/) using the base URL `https://api-1.wbor.org/api` (example: [recent spins](https://api-1.wbor.org/api/spins)).
 
 ## Contributing
 We're delighted you want to help contribute to our technical operations. We welcome folks at all levels of experience.
