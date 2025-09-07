@@ -4,7 +4,7 @@
 
 ## APIs
 
-Powered by [our Spinitron proxy](https://github.com/WBOR-91-1-FM/spinitron-proxy), you may fetch WBOR [Spinitron API data](https://spinitron.github.io/v2api/) using the base URL `https://api-1.wbor.org/api` (example: [recent spins](https://api-1.wbor.org/api/spins)).
+Powered by [our Spinitron proxy](https://github.com/wbor-fm/spinitron-proxy), you may fetch WBOR [Spinitron API data](https://spinitron.github.io/v2api/) using the base URL `https://api-1.wbor.org/api` (example: [recent spins](https://api-1.wbor.org/api/spins)).
 
 ## System Architecture
 
@@ -24,4 +24,4 @@ If you'd like to make changes, please follow these steps:
 
 ## Code Style
 
-[See guidelines here.](https://github.com/WBOR-91-1-FM/.github/blob/main/STYLE.md)
+[See guidelines here.](https://github.com/wbor-fm/.github/blob/main/STYLE.md)
